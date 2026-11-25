@@ -17,6 +17,9 @@ and the door-open counting and leftovers-union angles crowding the board.
 
 Blind tournament winner: candidate F, clean 5/5 sweep over 6 candidates
 from 4 angles (judge: Gemini flash-lite, labels only, 15 pairs).
+Extra-mile check: adding "My inventory scan" to strengthen the fridge's
+sensor voice lost to the original m2 — it clutters the punch — so the
+judged text stands exactly as written.
 
 Python 3.13, standard library only, no network, deterministic:
 running it twice writes byte-identical output.
